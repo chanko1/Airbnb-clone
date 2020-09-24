@@ -1,0 +1,27 @@
+.language {
+  position: absolute;
+  top: 80px;
+  left: 77%;
+  width: 130px;
+  background-color: white;
+  border-radius: 10%;
+}
+.lang {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  padding-bottom: 20px;
+  margin-left: 10px;
+}
+.lang > h3 {
+  margin-left: 20px;
+}
+.currency {
+  display: flex;
+  align-items: center;
+  padding-bottom: 15px;
+  margin-left: 10px;
+}
+.currency > h3 {
+  margin-left: 20px;
+}
